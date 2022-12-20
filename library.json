@@ -1,0 +1,20 @@
+{
+    "name": "Easy-ESP-WebServer",
+    "version": "1.0.0",
+    "description": "Giuliano Crenna\n Easy ESP web server configuration for ESP32-CAM.\nUpload directly to the ESP32-CAM",
+    "keywords": "C++, ESP32, ESP8266, ESP32-CAM",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/giulicrenna/Easy-ESP-WebServer.git"
+    },
+    "authors": [
+        {
+            "name": "Giuliano Crenna",
+            "email": "giulicrenna@gmail.com",
+            "url": "https://github.com/giulicrenna/"
+        }
+    ],
+    "license": "GPL-3.0-only",
+    "frameworks": "*",
+    "platforms": "*"
+}
